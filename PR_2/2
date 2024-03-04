@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+
+int n;
+int result;
+printf ("introducir el valor de n:" )
+scanf(" %d, &n");
+if (%2==0)
+result=1;
+else result =-1;
+printf("resultado; %d", result);

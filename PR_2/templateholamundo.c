@@ -29,6 +29,7 @@ int main()
 
 		printf("\n\n¿Desea efectuar una nueva operación (s/n)? ");
 		scanf(" %c", &c);
-	} while ((c != 'N') && (c != 'n'));
+	} 
+    while ((c != 'N') && (c != 'n'));
 	return 0;
 }
