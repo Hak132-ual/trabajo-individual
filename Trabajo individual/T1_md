@@ -1,0 +1,87 @@
+# Trabajo Individual 1: Informática y representación de información
+
+**Temporización**   2 horas (no presenciales)
+
+Responda, editando este mismo archivo, los ejercicios que se incluyen a continuación
+
+
+**1.** Cuántos bits hay en 32 KB? ¿Y en 64 MB?  ¿Y en 4 GB?
+
+RESPUESTA:
+32= 256000
+64mb= 512000000
+4gb = 32000000000
+
+
+**2.**   (Completar) Durante muchas décadas, cada uno o dos años, la capacidad de los ordenadores se ha duplicado aproximadamente aproximadamente el doble. Esta notable tendencia suele denominarse ----- .
+
+RESPUESTA: ley de moore 
+
+**3.** (Verdadero/Falso) La información de la unidad de memoria es persistente: se conserva incluso cuando se apaga el ordenador
+
+RESPUESTA:  verdadero
+
+**4.** (Completar) La mayoría de los ordenadores actuales tienen procesadores que implementan varios  procesadores en un único chip de circuito integrado. Estos procesadores pueden realizar muchas operaciones simultáneamente.
+
+RESPUESTA:  CPU
+
+**5.** Transformar a decimal los siguientes números:
+
+|Tipo          |        |       |Respuesta|Respuesta|
+|--------------|------- |-------|---------|---------|
+|binarios:     |10110   |0,10011|   22    |         |
+|octales:      |7354    |0,70612|   3820  |         |
+|hexadecimales:|F7398   |0,758FA|  11110111001110011000       |         |
+
+RESPUESTA: 
+
+     
+
+**6.** ¿Cuántos bits se necesitarían como mínimo para codificar un conjunto de 108 caracteres?
+
+RESPUESTA:   7 bits
+
+**7.** (Completar) Un ----- es la abreviatura de "dígito binario", un dígito que puede asumir uno de dos valores y es el elemento de datos más pequeño de un ordenador. dos valores y es el dato más pequeño de un ordenador.
+
+RESPUESTA:bit
+
+**8.**  (Completar) Hoy en día, la mayor parte del código de los sistemas operativos de propósito general y de otros sistemas críticos para el rendimiento está escrito en  -----.
+
+RESPUESTA:  javascript
+
+**9.**  (Rellenar) Uno de los objetivos clave de ----- es "escribir una vez y ejecutar en cualquier lugar" para permitir a los desarrolladores escribir programas que se ejecuten en una gran variedad de sistemas informáticos y dispositivos controlados por ordenador. controlados por ordenador.
+
+RESPUESTA:  codigo
+
+**10.**  (Verdadero/Falso) R es el lenguaje de programación de ciencias de datos más popular.
+
+RESPUESTA:  falso
+
+
+**11.** ¿Puede un procesador central ejecutar directamente las instrucciones máquina almacenadas en un archivo de memoria secundaria? Justificar la respuesta.
+
+RESPUESTA:  La información en de almacenamiento secundario es persistente: se conserva incluso cuando el computador se apaga.Se tarda mucho más en acceder a la información del almacenamiento secundario que información de la memoria primaria.
+
+
+**12.**  Describir brevemente las funciones principales de la unidad de control de un procesador central (CPU). ¿Qué información se almacena en el registro de instrucción (IR) y en el contador de programa (PC)? 
+
+RESPUESTA: 
+CPU: Procesa las señales y hace posible la computación. Actúa como el cerebro de cualquier dispositivo de computación.
+IR: los valores de datos, comandos, instrucciones o estados binarios que ordenan qué dato debe procesarse.
+PC: contiene la instrucción que hay que ejecutar.
+
+**13.**  Indicar las diferencias entre Compilador e interprete
+
+
+RESPUESTA:  El objetivo de los compiladores es obtener una traducción del programa fuente a otro lenguaje, los intérpretes tienen como objeto la obtención de los resultados del programa. 
+
+
+**14.** Indicar las diferencias entre  Software de sistema y software de aplicación
+
+RESPUESTA:  Software de sistema, que controlan los trabajos del ordenador o computadora, y el software de aplicación, que dirige las distintas tareas para las que se utilizan las computadoras. 
+
+
+**15.** Indicar las diferencias entre BIT y BYTE
+
+
+RESPUESTA: 1 byte son 8 bits
