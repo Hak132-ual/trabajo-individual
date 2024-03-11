@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main(int argc, char const *argv[])
+{
+    char c;
+    char(horas=h)
+    char(segundos=s)
+    char(minutos=m)
+    printf("mostrar segundos en horas,minutos y segundos")
+    printf(%/ &)
+
+
+
+    return 0;
+}
